@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RSI</string>
+    <string name="take_picture">Сфотографировать</string>
+    <string name="gallery">Галерея</string>
+    <string name="flash">Фонарь</string>
+    <string name="sign_info_image_description">Мы не нашли картинку знака, сори…</string>
+    <string name="back">Назад</string>
+</resources>
